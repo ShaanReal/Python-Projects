@@ -1,0 +1,5 @@
+Rating,Professor Gender,Comment Text
+5.0,M,fantastic teacher but boring
+1.0,W,nice but boring
+3.2,M,boring teacher
+4.5,W,nice smile but nice
